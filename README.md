@@ -1,6 +1,6 @@
 # html_fake_blog
 
-** Fake Blog **
+**Fake Blog**
 Create a fake blog using only HTML. Your blog can be about anything! Your hobbies, your favorite sports team/player, your favorite tv show, etc. Your blog can look however you want it to look, but your document should use the following tags at the least:
 
 - HTML
